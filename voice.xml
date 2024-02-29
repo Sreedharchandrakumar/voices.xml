@@ -1,0 +1,5 @@
+<Response>
+    <Dial callerId="+16383526717"> <!-- Replace with your Twilio phone number -->
+        <Number>+17812861901</Number> <!-- The number you want to call -->
+    </Dial>
+</Response>
